@@ -101,24 +101,5 @@ Feel free to fork the project and submit pull requests. Some areas for potential
 
 
 
-## Acknowledgments
 
-- Thanks to Pygame for providing the graphics library
-- Chess piece designs inspired by [source if applicable]
-- [Any other acknowledgments]
 
-## Author
-
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- [Other contact information if desired]
-
-## Version History
-
-- v1.0.0 (2024-02-27)
-  - Initial release
-  - Basic chess functionality
-  - GUI implementation
-  - Move validation
-  - Check/Checkmate detection
-  - Undo/Redo system
